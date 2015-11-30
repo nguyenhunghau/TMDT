@@ -1,0 +1,24 @@
+﻿
+@using TDMT_DOAN.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="left_menu">
+    
+    @for (int i = 0; i < Model.listNhaSanXuat.Count; i++)
+    {
+        if (i % 2 == 0)
+        {
+            <li class="even"><a href="@Url.Action("Index", "Product", new { name = "Manufactory", id = Model.listNhaSanXuat[i].MA })">@Model.listNhaSanXuat[i].TEN</a></li>
+        }
+        else
+        {
+                <li class="odd"><a href="@Url.Action("Index", "Product", new { name = "Manufactory", id = Model.listNhaSanXuat[i].MA })">@Model.listNhaSanXuat[i].TEN</a></li>
+        }
+        
+    }
+   
+</ul>
+

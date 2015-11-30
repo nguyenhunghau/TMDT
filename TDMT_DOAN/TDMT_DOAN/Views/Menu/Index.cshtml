@@ -1,0 +1,29 @@
+﻿@using TDMT_DOAN.Models;
+
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="menu">
+    <li><a href="@Url.Action("Index","Home")" class="nav1"> Trang chủ</a></li>
+    <li class="divider"></li>
+    <!--Sub menu here -->
+    <li><a href="@Url.Action("Index", "Product", new { name = "Default" , id = -1 })" class="nav2">Sản phẩm</a>
+        <ul class="submenu">
+            @foreach (var item in Model.listDanhMuc)
+            {  
+                <li><a href="@Url.Action("Index", "Product", new { name = "Category", id = item.MA })">@item.TEN</a></li>
+                <li class="subdivider"></li>              
+            }
+        </ul>   
+    </li>
+
+    <li class="divider"></li>
+    <li><a href="@Url.Action("Index","Contact")" class="nav6">Liên lạc</a></li>
+    <li class="divider"></li>
+    <li><a href="@Url.Action("Index","Support")" class="nav6">Trợ giúp</a></li>
+    <li class="divider"></li>
+</ul>
+

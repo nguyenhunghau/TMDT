@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TMDT_DB3ModelStoreContainer" CdmEntityContainer="TMDT_DB3Entities">
+    <EntitySetMapping Name="APIs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.API">
+        <MappingFragment StoreEntitySet="API">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="LINK" ColumnName="LINK" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETDONHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.CHITIETDONHANG">
+        <MappingFragment StoreEntitySet="CHITIETDONHANG">
+          <ScalarProperty Name="DONHANG" ColumnName="DONHANG" />
+          <ScalarProperty Name="SANPHAM" ColumnName="SANPHAM" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETHOPDONGBANHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.CHITIETHOPDONGBANHANG">
+        <MappingFragment StoreEntitySet="CHITIETHOPDONGBANHANG">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="MAHOPDONG" ColumnName="MAHOPDONG" />
+          <ScalarProperty Name="MASANPHAM" ColumnName="MASANPHAM" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CHITIETHOPDONGMUAHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.CHITIETHOPDONGMUAHANG">
+        <MappingFragment StoreEntitySet="CHITIETHOPDONGMUAHANG">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="MAHOPDONG" ColumnName="MAHOPDONG" />
+          <ScalarProperty Name="MASANPHAM" ColumnName="MASANPHAM" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DONHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.DONHANG">
+        <MappingFragment StoreEntitySet="DONHANG">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TONGTIEN" ColumnName="TONGTIEN" />
+          <ScalarProperty Name="NGAYDATHANG" ColumnName="NGAYDATHANG" />
+          <ScalarProperty Name="NGAYNHANHANG" ColumnName="NGAYNHANHANG" />
+          <ScalarProperty Name="TENNGUOINHAN" ColumnName="TENNGUOINHAN" />
+          <ScalarProperty Name="DIACHINHAN" ColumnName="DIACHINHAN" />
+          <ScalarProperty Name="DIENTHOAINGUOINHAN" ColumnName="DIENTHOAINGUOINHAN" />
+          <ScalarProperty Name="TRANGTHAI" ColumnName="TRANGTHAI" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOPDONGBANHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.HOPDONGBANHANG">
+        <MappingFragment StoreEntitySet="HOPDONGBANHANG">
+          <ScalarProperty Name="MAHOPDONG" ColumnName="MAHOPDONG" />
+          <ScalarProperty Name="THANHVIEN" ColumnName="THANHVIEN" />
+          <ScalarProperty Name="SANPHAM" ColumnName="SANPHAM" />
+          <ScalarProperty Name="SOLUONGTONKHOTOITHIEU" ColumnName="SOLUONGTONKHOTOITHIEU" />
+          <ScalarProperty Name="THOIGIANGIAOHANGCHAPNHAN" ColumnName="THOIGIANGIAOHANGCHAPNHAN" />
+          <ScalarProperty Name="THOIGIANKI" ColumnName="THOIGIANKI" />
+          <ScalarProperty Name="THOIGIANHOPTAC" ColumnName="THOIGIANHOPTAC" />
+          <ScalarProperty Name="THOIGIANCHUYENTIEN" ColumnName="THOIGIANCHUYENTIEN" />
+          <ScalarProperty Name="SOLUONGGIAOHANG" ColumnName="SOLUONGGIAOHANG" />
+          <ScalarProperty Name="LINKWEBAPI" ColumnName="LINKWEBAPI" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOPDONGMUAHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.HOPDONGMUAHANG">
+        <MappingFragment StoreEntitySet="HOPDONGMUAHANG">
+          <ScalarProperty Name="MAHOPDONG" ColumnName="MAHOPDONG" />
+          <ScalarProperty Name="NHACUNGCAP" ColumnName="NHACUNGCAP" />
+          <ScalarProperty Name="SANPHAM" ColumnName="SANPHAM" />
+          <ScalarProperty Name="SOLUONGTONKHOTOITHIEU" ColumnName="SOLUONGTONKHOTOITHIEU" />
+          <ScalarProperty Name="THOIGIANGIAOHANGCHAPNHAN" ColumnName="THOIGIANGIAOHANGCHAPNHAN" />
+          <ScalarProperty Name="THOIGIANKI" ColumnName="THOIGIANKI" />
+          <ScalarProperty Name="THOIGIANHOPTAC" ColumnName="THOIGIANHOPTAC" />
+          <ScalarProperty Name="THOIGIANCHUYENTIEN" ColumnName="THOIGIANCHUYENTIEN" />
+          <ScalarProperty Name="SOLUONGGIAOHANG" ColumnName="SOLUONGGIAOHANG" />
+          <ScalarProperty Name="LINKWEBAPI" ColumnName="LINKWEBAPI" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHUYENMAIs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.KHUYENMAI">
+        <MappingFragment StoreEntitySet="KHUYENMAI">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="NGAYBATDAU" ColumnName="NGAYBATDAU" />
+          <ScalarProperty Name="NGAYKETTHUC" ColumnName="NGAYKETTHUC" />
+          <ScalarProperty Name="NOIDUNG" ColumnName="NOIDUNG" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAISANPHAMs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.LOAISANPHAM">
+        <MappingFragment StoreEntitySet="LOAISANPHAM">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+          <ScalarProperty Name="SANPHAMBAN" ColumnName="SANPHAMBAN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAITHANHVIENs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.LOAITHANHVIEN">
+        <MappingFragment StoreEntitySet="LOAITHANHVIEN">
+          <ScalarProperty Name="LoaiTV" ColumnName="LoaiTV" />
+          <ScalarProperty Name="TENLOAI" ColumnName="TENLOAI" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHACUNGCAPs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.NHACUNGCAP">
+        <MappingFragment StoreEntitySet="NHACUNGCAP">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TENDANGNHAP" ColumnName="TENDANGNHAP" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="supplier_key" ColumnName="supplier_key" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NHASANXUATs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.NHASANXUAT">
+        <MappingFragment StoreEntitySet="NHASANXUAT">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SANPHAMs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.SANPHAM">
+        <MappingFragment StoreEntitySet="SANPHAM">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DONGIAMUA" ColumnName="DONGIAMUA" />
+          <ScalarProperty Name="DONGIABAN" ColumnName="DONGIABAN" />
+          <ScalarProperty Name="HINHANH" ColumnName="HINHANH" />
+          <ScalarProperty Name="MOTA" ColumnName="MOTA" />
+          <ScalarProperty Name="SOLUONG" ColumnName="SOLUONG" />
+          <ScalarProperty Name="LOAISANPHAM" ColumnName="LOAISANPHAM" />
+          <ScalarProperty Name="SANPHAMMOI" ColumnName="SANPHAMMOI" />
+          <ScalarProperty Name="NHASANXUAT" ColumnName="NHASANXUAT" />
+          <ScalarProperty Name="SANPHAMBANCHAY" ColumnName="SANPHAMBANCHAY" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+          <ScalarProperty Name="SANPHAMBAN" ColumnName="SANPHAMBAN" />
+          <ScalarProperty Name="MAKHUYENMAI" ColumnName="MAKHUYENMAI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THANHTOANONLINEs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.THANHTOANONLINE">
+        <MappingFragment StoreEntitySet="THANHTOANONLINE">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="MATHANHVIEN" ColumnName="MATHANHVIEN" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THANHVIENs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.THANHVIEN">
+        <MappingFragment StoreEntitySet="THANHVIEN">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TENDANGNHAP" ColumnName="TENDANGNHAP" />
+          <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+          <ScalarProperty Name="TEN" ColumnName="TEN" />
+          <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+          <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+          <ScalarProperty Name="THONGTINMOTA" ColumnName="THONGTINMOTA" />
+          <ScalarProperty Name="CUSTOMER_KEY" ColumnName="CUSTOMER_KEY" />
+          <ScalarProperty Name="LoaiThanhVien" ColumnName="LoaiThanhVien" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TRANGTHAIDONHANGs">
+      <EntityTypeMapping TypeName="TMDT_DB3Model.TRANGTHAIDONHANG">
+        <MappingFragment StoreEntitySet="TRANGTHAIDONHANG">
+          <ScalarProperty Name="MA" ColumnName="MA" />
+          <ScalarProperty Name="TINHTRANG" ColumnName="TINHTRANG" />
+          <ScalarProperty Name="DAXOA" ColumnName="DAXOA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,13 @@
+﻿@using TDMT_DOAN.Models
+
+<ul id="menu">
+    <li>
+        <a href="">@SessionHelper.GetUserSession()<b class="caret"></b></a>
+        <ul>
+            <li><a href="@Url.Action("UpdateAccount", "Account")">Cập nhật tài khoản</a></li>
+            <li><a href="@Url.Action("ChangePassword", "Account")">Đổi mật khẩu</a></li>
+            <li><a href="@Url.Action("Logout", "Account")">Đăng xuất</a></li>
+        </ul>
+
+    </li>
+</ul>

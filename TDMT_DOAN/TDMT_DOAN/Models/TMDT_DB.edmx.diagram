@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1aa21e26268e47e18e5bf2795700564d" Name="Diagram1">
+        <EntityTypeShape EntityType="TMDT_DB3Model.API" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.CHITIETDONHANG" Width="1.5" PointX="5.25" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.CHITIETHOPDONGBANHANG" Width="1.5" PointX="5.25" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.CHITIETHOPDONGMUAHANG" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.DONHANG" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.HOPDONGBANHANG" Width="1.5" PointX="10.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.HOPDONGMUAHANG" Width="1.5" PointX="8.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.KHUYENMAI" Width="1.5" PointX="2.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.LOAISANPHAM" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.LOAITHANHVIEN" Width="1.5" PointX="8.75" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.NHACUNGCAP" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.NHASANXUAT" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.SANPHAM" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.THANHTOANONLINE" Width="1.5" PointX="13.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.THANHVIEN" Width="1.5" PointX="11" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TMDT_DB3Model.TRANGTHAIDONHANG" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_CHITIETDONHANG_DONHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_CHITIETDONHANG_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_CHITIETHOPDONGBANHANG_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_CHITIETHOPDONGMUAHANG_HOPDONGMUAHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_CHITIETHOPDONGMUAHANG_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_DONHANG_TRANGTHAIDONHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_HOPDONGMUAHANG_NHACUNGCAP" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_HOPDONGMUAHANG_SANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_SANPHAM_LOAISANPHAM" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_THANHVIEN_LOAITHANHVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_SANPHAM_NHASANXUAT" ManuallyRouted="false" />
+        <AssociationConnector Association="TMDT_DB3Model.FK_THANHTOANONLINE_THANHVIEN" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

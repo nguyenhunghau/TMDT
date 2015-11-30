@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "UpdateAccount";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model TDMT_DOAN.Models.THANHVIEN
+
+
+<div class="center_content">
+    <section class="container_login">
+        <div class="login">
+            <h1>Cập nhật tài khoản</h1>
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true, null, new { @class = "alert alert-danger" })
+                @Html.AntiForgeryToken()
+
+
+                @Html.TextBoxFor(model => model.TEN, new { @class = "form-control", @placeholder = "Họ tên", @type = "text", @required = "required" })
+                @Html.TextBoxFor(model => model.DIACHI, new { @class = "form-control", @placeholder = "Địa chỉ", @type = "text", @required = "required" })
+                @Html.TextBoxFor(model => model.DIENTHOAI, new { @class = "form-control", @placeholder = "Điện thoại", @type = "number", @required = "required" })
+                @Html.TextBoxFor(model => model.EMAIL, new { @class = "form-control", @placeholder = "Email", @type = "text", @required = "required" })
+                @Html.TextBoxFor(model => model.THONGTINMOTA, new { @class = "form-control", @placeholder = "mô tả", @type = "text", @required = "required" })
+
+                <p class="submit_login"><input type="submit" name="commit" value="Update"></p>
+            }
+        </div>
+    </section>
+</div>
+
+
+
+

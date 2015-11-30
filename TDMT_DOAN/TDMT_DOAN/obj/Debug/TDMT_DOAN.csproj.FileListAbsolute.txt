@@ -1,0 +1,287 @@
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll.config
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.pdb
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Web.Infrastructure.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Owin.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\WebGrease.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.pdb
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.dll
+c:\users\win7\documents\visual studio 2013\Projects\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.pdb
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll.config
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.pdb
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Owin.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\WebGrease.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.pdb
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.csprojResolveAssemblyReference.cache
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.dll
+E:\Study\SALMON_CNTT\Thuong_mai_dien_tu\Project\Source\TDMT_DOAN\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.pdb
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll.config
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.pdb
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Owin.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\WebGrease.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.pdb
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.csprojResolveAssemblyReference.cache
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.pdb
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.dll
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.xml
+C:\Users\Salmon\Documents\ec-th2012-b\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll.config
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.pdb
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Owin.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\WebGrease.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.pdb
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.csprojResolveAssemblyReference.cache
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.dll
+C:\Users\Salmon\Documents\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.pdb
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll.config
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\TDMT_DOAN.pdb
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Web.Infrastructure.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Owin.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\WebGrease.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\PagedList.Mvc.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Helpers.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Mvc.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Optimization.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.Razor.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Deployment.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\System.Web.WebPages.Razor.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Antlr3.Runtime.pdb
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Newtonsoft.Json.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\EntityFramework.SqlServer.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Google.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.csprojResolveAssemblyReference.cache
+E:\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.dll
+E:\Source\TDMT_DOAN\TDMT_DOAN\obj\Debug\TDMT_DOAN.pdb

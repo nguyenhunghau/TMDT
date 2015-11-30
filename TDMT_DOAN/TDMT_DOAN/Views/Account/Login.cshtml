@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model TDMT_DOAN.Models.LoginViewModel
+
+<div class="center_content">
+    <section class="container_login">
+        <div class="login">
+            <h1>Đăng nhập</h1>
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true, null, new { @class = "alert alert-danger" })
+                @Html.AntiForgeryToken()
+
+                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", @placeholder = "Tên đăng nhập", @type = "text", @required = "required" })
+                @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @placeholder = "Mật khẩu", @type = "password", @required = "required" })
+
+                <p class="remember_me">
+                    <div>
+                        <label>
+                            <input type="checkbox" name="remember_me" id="remember_me">
+                            Ghi nhớ tài khoản
+                        </label>
+                <p><a href="@Url.Action("forgotPassword", "Account")">Quên mật khẩu? </a></p>
+            </div>
+            </p>
+                <p class="submit_login"><input type="submit" name="commit" value="Login"></p>
+            }
+    </div>
+    </section>
+    </div>
